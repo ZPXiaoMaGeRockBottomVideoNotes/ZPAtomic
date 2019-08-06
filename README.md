@@ -1,0 +1,2 @@
+# ZPAtomic
+本Demo主要介绍了atomic关键字的用法以及使用了该关键字的属性的setter和getter方法内部的构造代码。
